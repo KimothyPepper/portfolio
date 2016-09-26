@@ -18,3 +18,5 @@ Being able to communicate my ideas while including design makes this all so moti
 -[vimeo](https://vimeo.com/kimothy)
 
 ©2016 Kim Pepin
+
+Licensed under the [MIT License] (License)
