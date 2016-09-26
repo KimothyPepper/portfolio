@@ -1,4 +1,4 @@
-s# Kim Pepin
+# Kim Pepin
 
 ####[kimpepin.ca](http://kimpepin.ca)
 
