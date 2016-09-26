@@ -16,3 +16,5 @@ Being able to communicate my ideas while including design makes this all so moti
 -[linkedin](https://www.linkedin.com/in/kim-pepin-98934ab5)
 -[instagram](https://www.instagram.com/kim.pepin.design/)
 -[vimeo](https://vimeo.com/kimothy)
+
+©2016 Kim Pepin
