@@ -2,8 +2,6 @@
 
 ####[kimpepin.ca](http://kimpepin.ca)
 
-![alt tag](images/santo.jpg)
-
 Kim Pepin is a Graphic Designer.
 
 Ever since I was younger, I have always loved to draw and create things by hand. My mother and grandpa had always influenced me with art.
