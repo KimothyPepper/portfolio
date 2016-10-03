@@ -37,7 +37,7 @@ line-height: 20px;
 }
 
 .btn {
-  background-color: Black; /*  */
+  background-color: #b2a3b3;
     border: none;
     color: white;
     padding: 15px 32px;
@@ -45,11 +45,6 @@ line-height: 20px;
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-}
-}
-
-.navcolor {
-  background-color: #4b6879;
 }
 
 .white {
@@ -85,10 +80,10 @@ background-color: #c6d8e2;
   color: #4b6879;
 }
 
-
 a {
   text-decoration: none;
 }
+
 .icon {
   width: 3em;
 }
@@ -123,10 +118,6 @@ p {
 
 .gillette {
   width: 100%;
-}
-
-.btn {
-  background-color: #b2a3b3;
 }
 
 .klogo {
