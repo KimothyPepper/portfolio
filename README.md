@@ -2,7 +2,7 @@
 
 ![](./images/santo.JPG)
 
-####
+####[kimpepin.ca](http://kimpepin.ca)
 
 Kim Pepin is a Graphic Designer.
 
