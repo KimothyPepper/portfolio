@@ -53,14 +53,25 @@ line-height: 20px;
 
 .index {
   color: white;
-  background-image: url("../images/cloud.jpg");
-  background-repeat: no-repeat;
-  background-position: center;
-  background-attachment: fixed;
+  background-image: url("../images/city.jpg");
+
 }
 
 li {
   display: inline-block;
+}
+
+.banner {
+  position: relative;
+  width: 100%;
+}
+
+.text {
+  left: 0;
+  position: absolute;
+  text-align: center;
+  top: 30px;
+  width: 100%;
 }
 
 .me {
@@ -100,12 +111,12 @@ img {
 
 h1 {
   font-size: 2em;
-  color: #4b6879;
+  color: #c6d8e2;
 }
 
 h2 {
   font-size: 1em;
-  color: #4b6879;
+  color: #c6d8e2;
 }
 
 p {
@@ -122,4 +133,8 @@ p {
 
 .klogo {
   width: 4.5em;
+}
+
+.navblue {
+  color: #c6d8e2;
 }
