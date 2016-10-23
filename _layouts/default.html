@@ -12,24 +12,24 @@
     <link href='https://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
   </head>
   <body>
-    <header>
+    <header itemscope itemtype="https://schema.org/CreativeWork">
     <div class="grid grid-middle text-right">
       <div class="unit xs-1-4 s-1-4 m-1-2 l-1-4 text-left">
-        <a  href="{{site.baseurl}}/index.html">
-        <img class="island-half klogo" src="{{site.baseurl}}/images/klogo.svg" alt="">
+        <a itemprop="url"  href="{{site.baseurl}}/index.html">
+        <img itemprop="image" class="island-half klogo" src="{{site.baseurl}}/images/klogo.svg" alt="logo of a K">
        </a>
       </div>
       <div class="unit xs-3-4 s-3-4 m-1-2 l-3-4 text-right">
         <nav class="gutter">
           <ul class="list-group--inline">
             <li class="island-half">
-              <a class="blue"  href="{{site.baseurl}}/">Home</a>
+              <a itemprop="url" class="blue"  href="{{site.baseurl}}/">Home</a>
             </li>
             <li class="island-half">
-              <a class="blue"  href="{{site.baseurl}}/bio">Bio</a>
+              <a itemprop="url" class="blue"  href="{{site.baseurl}}/bio">Bio</a>
             </li>
             <li class="island-half">
-              <a class="blue"  href="{{site.baseurl}}/portfolio">Portfolio</a>
+              <a itemprop="url" class="blue"  href="{{site.baseurl}}/portfolio">Portfolio</a>
             </li>
           </ul>
         </nav>
@@ -41,19 +41,21 @@
     {{content}}
 </main>
 
+    <footer itemscope itemtype="https://schema.org/CreativeWork">
     <div class="text-center pad-top pad-bottom">
-      <a href="https://www.linkedin.com/in/kim-pepin-98934ab5">
-      <img class="icon" src="{{site.baseurl}}/images/social-01.png" alt="">
+      <a itemprop="url" href="https://www.linkedin.com/in/kim-pepin-98934ab5">
+      <img itemprop="image" class="icon" src="{{site.baseurl}}/images/social-01.png" alt="">
       </a>
-      <a href="https://www.instagram.com/kim.pepin.design/">
-      <img class="icon" src="{{site.baseurl}}/images/social-02.png" alt="">
+      <a itemprop="url" href="https://www.instagram.com/kim.pepin.design/">
+      <img itemprop="image" class="icon" src="{{site.baseurl}}/images/social-02.png" alt="">
       </a>
-      <a href="https://vimeo.com/kimothy">
-      <img class="icon" src="{{site.baseurl}}/images/social-03.png" alt="">
+      <a itemprop="url" href="https://vimeo.com/kimothy">
+      <img itemprop="image" class="icon" src="{{site.baseurl}}/images/social-03.png" alt="">
       </a>
-      <a href="mailto:kim@kimpepin.ca">
-      <img class="icon" src="{{site.baseurl}}/images/social-04.png" alt="">
+      <a itemprop="email" href="mailto:kim-pep@hotmail.com">
+      <img itemprop="image" class="icon" src="{{site.baseurl}}/images/social-04.png" alt="">
       </a>
     </div>
+  </footer>
   </body>
 </html>
